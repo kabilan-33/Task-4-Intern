@@ -1,5 +1,5 @@
-![Uploading 460309025-dd1cb08a-2334-4fe2-a6f3-2e8ab2a49311 (1).png…]()
-![Uploading 460309025-dd1cb08a-2334-4fe2-a6f3-2e8ab2a49311.png…]()
+<img width="1024" height="1024" alt="460309025-dd1cb08a-2334-4fe2-a6f3-2e8ab2a49311 (1)" src="https://github.com/user-attachments/assets/995b93c3-efbd-4296-8531-955c74d5e17e" />
+
 # Task-4-Intern🌐 Time Tracking & Productivity Analytics Extension — CodTech Internship Task 4
 
 📌 Task Objective  
